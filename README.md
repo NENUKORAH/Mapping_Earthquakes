@@ -25,3 +25,7 @@ The approach will be to use the JavaScript and the D3.js library to retrieve the
 ## Result
 
 ![Earthquakes](https://user-images.githubusercontent.com/81701640/125556281-cc77814e-4717-48dc-8a0a-b9f6f3db6b38.png)
+
+**Nnaemeka Enukorah**
+
+**July 17th, 2021**
